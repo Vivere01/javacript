@@ -1,0 +1,11 @@
+@charset "UTF-8";
+
+body {
+    background-image: linear-gradient(to right, #034159,#025951,#02735E);
+
+}
+
+p {
+ color:rgba(134, 9, 9, 0.712)
+
+}
